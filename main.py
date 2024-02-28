@@ -15,7 +15,7 @@ def divide(n1, n2):
 def calculate(calc_function, n1, n2):
     return calc_function(n1, n2)
 
-result = calculate(add, 5, 99)
+result = calculate(add, 10, 90)
 print(n1)
 
 ##Functions can be nested in other functions
