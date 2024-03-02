@@ -43,7 +43,7 @@ inner_function = outer_function()
 inner_function
 
 
-## Simple Python Decorator Functions
+
 import time
 
 def delay_decorator(function):
