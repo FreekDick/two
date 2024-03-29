@@ -17,8 +17,7 @@ def calculate(calc_function, n1, n2):
 
 result = calculate(add, 10, 90)
 print(n1)
-
-##Functions can be nested in other functions
+functions
 
 def outer_function():
     print("I'm outer")
